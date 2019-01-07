@@ -1,13 +1,7 @@
 <!doctype html>
 <html lang="en">
-<head>
-<style>
-a{color:inherit;text-decoration:none;}
-th,td {padding:5px;text-align:left; border: 1px solid #ddd;}
-</style>
-</head>
 <body>
-<table style="float:left"><tr><td>
+<table><tr><td>
 1. My name is <br/>
 2. What is your name?<br/>
 3. Hello<br/>
@@ -137,431 +131,108 @@ The movie has an oneiric quality to it, as most of the plot takes place in a wor
 </table>
 <p style="clear: both">Spanish Core 100 Word List: https://www.spanishpod101.com/spanish-vocabulary-lists/</p>
 <table>
-<tr><td>
-semana (n) fem 	.<br>
-año (n) masc 	.<br>
-hoy (adv) 	.<br>
-mañana (adv) 	.<br>
-ayer (n) 	.<br>
-calendario (n) masc 	.<br>
-segundo (n) masc 	.<br>
-hora (n) fem 	.<br>
-minuto (n) masc 	.<br>
-en punto 	.<br>
-reloj (n) masc 	.<br>
-poder (v) 	.<br>
-usar (v) 	.<br>
-hacer (v) 	.<br>
-ir (v) 	.<br>
-venir (v) 	.<br>
-reírse (v) 	.<br>
-hacer (v) 	.<br>
-ver (v) 	.<br>
-lejos (adv) 	.<br>
-pequeño (adj) 	.<br>
-bueno (adj) 	.<br>
-hermoso (adj) 	.<br>
-feo (adj) 	.<br>
-difícil (adj) 	.<br>
-fácil (adj) 	.<br>
-malo (adj) 	.<br>
-cerca (adj) 	.<br>
-Encantado de conocerte. 	.<br>
-Hola. 	.<br>
-Buenos días. 	.<br>
-Buenas tardes. 	.<br>
-Buenas tardes. 	.<br>
-Buenas noches. 	.<br>
-¿Cómo estás? 	.<br>
-Gracias. 	.<br>
-No. 	.<br>
-¡Delicioso! (adj) 	.<br>
-Soy... (nombre) 	.<br>
-Adiós. 	.<br>
-Sí. 	.<br>
-lunes (n) masc 	.<br>
-martes (n) masc 	.<br>
-miércoles (n) masc 	.<br>
-jueves (n) masc 	.<br>
-viernes (n) masc 	.<br>
-sábado (n) masc 	.<br>
-domingo (n) masc 	.<br>
-mayo (n) masc 	.<br>
-enero (n) masc 	.<br>
-febrero (n) masc 	.<br>
-marzo (n) masc 	.<br>
-abril (n) masc 	.<br>
-junio (n) masc 	.<br>
-julio (n) masc 	.<br>
-agosto (n) masc 	.<br>
-septiembre (n) masc 	.<br>
-octubre (n) masc 	.<br>
-noviembre (n) masc 	.<br>
-diciembre (n) masc 	.<br>
-cero 	.<br>
-uno 	.<br>
-dos 	.<br>
-tres 	.<br>
-cuatro 	.<br>
-cinco 	.<br>
-seis 	.<br>
-siete 	.<br>
-ocho 	.<br>
-nueve 	.<br>
-diez 	.<br>
-café (n) masc 	.<br>
-cerveza (n) fem 	.<br>
-té (n) masc 	.<br>
-vino (n) masc 	.<br>
-agua (n) fem 	.<br>
-ternera (n) fem 	.<br>
-carne de cerdo fem 	.<br>
-pollo (n) masc 	.<br>
-cordero (n) masc 	.<br>
-pescado (n) masc 	.<br>
-pie (n) masc 	.<br>
-pierna (n) fem 	.<br>
-cabeza (n) fem 	.<br>
-brazo (n) masc 	.<br>
-mano (n) fem 	.<br>
-dedo (n) masc 	.<br>
-cuerpo (n) masc 	.<br>
-estómago (n) masc 	.<br>
-espalda (n) fem 	.<br>
-pecho (n) masc 	.<br>
-enfermera (n) fem 	.<br>
-empleado (n) masc 	.<br>
-oficial de policía 	.<br>
-cocinero (n) masc 	.<br>
-ingeniero (n) masc 	.<br>
-médico (n) masc 	.<br>
-encargado (n) masc 	.<br>
-profesora (n) fem 	.<br>
-programador (n) masc 	.<br>
-vendedor (n) masc 	.<br>
+<tr><td>	semana (n) fem 	</td><td>	week 	</td><td>	Hay siete días en una semana. 	</td><td>	There are seven days in a week. 	</td></tr>
+<tr><td>	año (n) masc 	</td><td>	year 	</td><td>	Estaré de vuelta el año que viene. 	</td><td>	I'll be back next year. 	</td></tr>
+<tr><td>	hoy (adv) 	</td><td>	today 	</td><td>	hoy a las 6:15 	</td><td>	today at 6:15 	</td></tr>
+<tr><td>	mañana (adv) 	</td><td>	tomorrow 	</td><td>	¡Hasta mañana! 	</td><td>	See you tomorrow! 	</td></tr>
+<tr><td>	ayer (n) 	</td><td>	yesterday 	</td><td>	ayer por la tarde 	</td><td>	yesterday afternoon 	</td></tr>
+<tr><td>	calendario (n) masc 	</td><td>	calendar 	</td><td>	Escribe los planes para el viernes en el calendario. 	</td><td>	Write the plans for Friday on the calendar. 	</td></tr>
+<tr><td>	segundo (n) masc 	</td><td>	second 	</td><td>	Quedan cincuenta y ocho segundos en el cronómetro. 	</td><td>	There are fifty eight seconds left on the stopwatch. 	</td></tr>
+<tr><td>	hora (n) fem 	</td><td>	hour 	</td><td>	Hay 60 minutos en una hora. 	</td><td>	There are 60 minutes in an hour. 	</td></tr>
+<tr><td>	minuto (n) masc 	</td><td>	minute 	</td><td>	Hay sesenta segundos en un minuto. 	</td><td>	There are sixty seconds in a minute. 	</td></tr>
+<tr><td>	en punto 	</td><td>	o'clock 	</td><td>	3 en punto 	</td><td>	3 o’clock 	</td></tr>
+<tr><td>	reloj (n) masc 	</td><td>	clock 	</td><td>	El reloj de pared está colgando en la pared. 	</td><td>	The wall clock is hanging on the wall. 	</td></tr>
+<tr><td>	poder (v) 	</td><td>	can 	</td><td>	poder saltar por encima 	</td><td>	can jump over 	</td></tr>
+<tr><td>	usar (v) 	</td><td>	use 	</td><td>	El programador está usando el ordenador. 	</td><td>	The programmer is using the computer. 	</td></tr>
+<tr><td>	hacer (v) 	</td><td>	do 	</td><td>	La mujer hizo las tareas domésticas. 	</td><td>	The woman did housework. 	</td></tr>
+<tr><td>	ir (v) 	</td><td>	go 	</td><td>	vaya todo recto 	</td><td>	go straight ahead 	</td></tr>
+<tr><td>	venir (v) 	</td><td>	come 	</td><td>	La niña viene hacia la videocámara. 	</td><td>	The girl comes towards the video camera. 	</td></tr>
+<tr><td>	reírse (v) 	</td><td>	laugh 	</td><td>	La pareja se ríe de la broma. 	</td><td>	The couple laughs at a joke. 	</td></tr>
+<tr><td>	hacer (v) 	</td><td>	make 	</td><td>	La camarera está haciendo la cama en una habitación de hotel. 	</td><td>	The maid is making the bed in a hotel room. 	</td></tr>
+<tr><td>	ver (v) 	</td><td>	see 	</td><td>	El turista ve la puesta de sol. 	</td><td>	The tourists see the sunset. 	</td></tr>
+<tr><td>	lejos (adv) 	</td><td>	far 	</td><td>	La mujer está viendo algo a lo lejos. 	</td><td>	The woman is looking at something far away. 	</td></tr>
+<tr><td>	pequeño (adj) 	</td><td>	small 	</td><td>	muy pequeña 	</td><td>	very small 	</td></tr>
+<tr><td>	bueno (adj) 	</td><td>	good 	</td><td>	Las verduras son buenas para tí. 	</td><td>	Vegetables are good for you. 	</td></tr>
+<tr><td>	hermoso (adj) 	</td><td>	beautiful 	</td><td>	Ella es una mujer hermosa. 	</td><td>	She is a beautiful woman. 	</td></tr>
+<tr><td>	feo (adj) 	</td><td>	ugly 	</td><td>	rostro feo 	</td><td>	ugly face 	</td></tr>
+<tr><td>	difícil (adj) 	</td><td>	difficult 	</td><td>	muy difícil 	</td><td>	very difficult 	</td></tr>
+<tr><td>	fácil (adj) 	</td><td>	easy 	</td><td>	decisión fácil 	</td><td>	easy decision 	</td></tr>
+<tr><td>	malo (adj) 	</td><td>	bad 	</td><td>	El hombre es malo. 	</td><td>	The man is bad. 	</td></tr>
+<tr><td>	cerca (adj) 	</td><td>	near 	</td><td>	La manzana está cerca de la naranja. 	</td><td>	The apple is near the orange. 	</td></tr>
+<tr><td>	Encantado de conocerte. 	</td><td>	Nice to meet you. 	</td><td>	Encantado de conocerle señor. 	</td><td>	Nice to meet you, sir. 	</td></tr>
+<tr><td>	Hola. 	</td><td>	Hello. 	</td><td>	Cuando conozco a alguien por primera vez, me gusta decir "Hola". 	</td><td>	When I first meet someone, I like to say, "Hello." 	</td></tr>
+<tr><td>	Buenos días. 	</td><td>	Good morning. 	</td><td>	Yo siempre digo "buenos días" a la gente que me encuentro en mi camino al trabajo. 	</td><td>	I always say, "Good morning,"to the people I meet on my way home from work. 	</td></tr>
+<tr><td>	Buenas tardes. 	</td><td>	Good afternoon. 	</td><td>	Buenas tardes. Bienvenido. 	</td><td>	Good evening. Welcome. 	</td></tr>
+<tr><td>	Buenas tardes. 	</td><td>	Good evening. 	</td><td>	Buenas tardes. Bienvenido. 	</td><td>	Good evening. Welcome. 	</td></tr>
+<tr><td>	Buenas noches. 	</td><td>	Good night. 	</td><td>	Los niños vienen a la planta de abajo para decirnos buenas noches. 	</td><td>	The kids come downstairs to tell us good night. 	</td></tr>
+<tr><td>	¿Cómo estás? 	</td><td>	How are you? 	</td><td>	¿Qué hay de nuevo? ¿Cómo estás? 	</td><td>	(What's new? How are you?) 	</td></tr>
+<tr><td>	Gracias. 	</td><td>	Thank you! 	</td><td>	Gracias por venir. 	</td><td>	Thank you for coming. 	</td></tr>
+<tr><td>	No. 	</td><td>	No. 	</td><td>	señal de "no". 	</td><td>	no sign 	</td></tr>
+<tr><td>	¡Delicioso! (adj) 	</td><td>	Delicious! 	</td><td>	postres deliciosos 	</td><td>	delicious deserts 	</td></tr>
+<tr><td>	Soy... (nombre) 	</td><td>	I'm...(name). 	</td><td>	0	</td><td>	0	</td></tr>
+<tr><td>	Adiós. 	</td><td>	Goodbye. 	</td><td>	Ella estaba triste por decirle adiós a su novio. 	</td><td>	She was sad to say goodbye to her boyfriend. 	</td></tr>
+<tr><td>	Sí. 	</td><td>	Yes. 	</td><td>	0	</td><td>	0	</td></tr>
+<tr><td>	lunes (n) masc 	</td><td>	Monday 	</td><td>	Lunes, martes, miércoles, jueves y viernes son días de la semana. 	</td><td>	Monday, Tuesday, Wednesday, Thursday and Friday are weekdays. 	</td></tr>
+<tr><td>	martes (n) masc 	</td><td>	Tuesday 	</td><td>	martes, 1 de enero 	</td><td>	Tuesday, January 1st 	</td></tr>
+<tr><td>	miércoles (n) masc 	</td><td>	Wednesday 	</td><td>	0	</td><td>	0	</td></tr>
+<tr><td>	jueves (n) masc 	</td><td>	Thursday 	</td><td>	0	</td><td>	0	</td></tr>
+<tr><td>	viernes (n) masc 	</td><td>	Friday 	</td><td>	Escribe los planes para el viernes en el calendario. 	</td><td>	Write the plans for Friday on the calendar. 	</td></tr>
+<tr><td>	sábado (n) masc 	</td><td>	Saturday 	</td><td>	no tiene planes para el sábado 	</td><td>	no plans for Saturday 	</td></tr>
+<tr><td>	domingo (n) masc 	</td><td>	Sunday 	</td><td>	El domingo es el Día del Padre. 	</td><td>	Sunday is Father's Day. 	</td></tr>
+<tr><td>	mayo (n) masc 	</td><td>	May 	</td><td>	Ahora es abril asi que el próximo mes será mayo. 	</td><td>	It is now April so next month will be May. 	</td></tr>
+<tr><td>	enero (n) masc 	</td><td>	January 	</td><td>	El 1 de enero cae en martes este año. 	</td><td>	January 1st falls on a Tuesday this year. 	</td></tr>
+<tr><td>	febrero (n) masc 	</td><td>	February 	</td><td>	El día del año bisisesto es el veintinueve de febrero. 	</td><td>	Leap year day is February 29th. 	</td></tr>
+<tr><td>	marzo (n) masc 	</td><td>	March 	</td><td>	Ahora es abril asi que el mes pasado fue marzo. 	</td><td>	It is now April so last month was March. 	</td></tr>
+<tr><td>	abril (n) masc 	</td><td>	April 	</td><td>	uno de abril 	</td><td>	April first 	</td></tr>
+<tr><td>	junio (n) masc 	</td><td>	June 	</td><td>	Nos casamos en junio. 	</td><td>	We are getting married in June. 	</td></tr>
+<tr><td>	julio (n) masc 	</td><td>	July 	</td><td>	Julio fue llamado por Julio César quien nació en julio. 	</td><td>	July is named for Julius Caesar, who was born in July. 	</td></tr>
+<tr><td>	agosto (n) masc 	</td><td>	August 	</td><td>	La escuela está cerrada en agosto. 	</td><td>	The school is closed in August. 	</td></tr>
+<tr><td>	septiembre (n) masc 	</td><td>	September 	</td><td>	En septiembre, el otoño empieza en el hemisferio norte y la primavera en el hemisferio sur. 	</td><td>	In September, fall begins in the northen hemisphere and spring in the southern hemisphere. 	</td></tr>
+<tr><td>	octubre (n) masc 	</td><td>	October 	</td><td>	Halloween cae en el 31 de octubre. 	</td><td>	Halloween falls on October 31st. 	</td></tr>
+<tr><td>	noviembre (n) masc 	</td><td>	November 	</td><td>	Noviembre es uno de los cuatro meses con treinta días. 	</td><td>	November is one of four months with thirty days. 	</td></tr>
+<tr><td>	diciembre (n) masc 	</td><td>	December 	</td><td>	El 31 de diciembre es la víspera de año nuevo. 	</td><td>	December 31st is New Year's Eve. 	</td></tr>
+<tr><td>	cero 	</td><td>	zero 	</td><td>	número cero 	</td><td>	number zero 	</td></tr>
+<tr><td>	uno 	</td><td>	one 	</td><td>	un grado 	</td><td>	one degree 	</td></tr>
+<tr><td>	dos 	</td><td>	two 	</td><td>	dos grados 	</td><td>	two degrees 	</td></tr>
+<tr><td>	tres 	</td><td>	three 	</td><td>	tres grados 	</td><td>	three degrees 	</td></tr>
+<tr><td>	cuatro 	</td><td>	four 	</td><td>	autopista de cuatro carriles 	</td><td>	four-lane highway 	</td></tr>
+<tr><td>	cinco 	</td><td>	five 	</td><td>	cinco grados 	</td><td>	five degrees 	</td></tr>
+<tr><td>	seis 	</td><td>	six 	</td><td>	seis cosas 	</td><td>	six things 	</td></tr>
+<tr><td>	siete 	</td><td>	seven 	</td><td>	siete grados 	</td><td>	seven degrees 	</td></tr>
+<tr><td>	ocho 	</td><td>	eight 	</td><td>	ocho cosas 	</td><td>	eight things 	</td></tr>
+<tr><td>	nueve 	</td><td>	nine 	</td><td>	nueve cosas 	</td><td>	nine things 	</td></tr>
+<tr><td>	diez 	</td><td>	ten 	</td><td>	diez cosas 	</td><td>	ten things 	</td></tr>
+<tr><td>	café (n) masc 	</td><td>	coffee 	</td><td>	café recien hecho 	</td><td>	freshly brewed coffee 	</td></tr>
+<tr><td>	cerveza (n) fem 	</td><td>	beer 	</td><td>	Disfruto de una lata o botella de cerveza cuando veo los deportes en la tele. 	</td><td>	I enjoy a can or bottle of beer when watching sports on television. 	</td></tr>
+<tr><td>	té (n) masc 	</td><td>	tea 	</td><td>	taza de té 	</td><td>	cup of tea 	</td></tr>
+<tr><td>	vino (n) masc 	</td><td>	wine 	</td><td>	copa de vino 	</td><td>	glass of wine 	</td></tr>
+<tr><td>	agua (n) fem 	</td><td>	water 	</td><td>	¿Puede darme un poco de agua, por favor? 	</td><td>	Can I have some water, please? 	</td></tr>
+<tr><td>	ternera (n) fem 	</td><td>	beef 	</td><td>	sabrosa ternera 	</td><td>	flavorful beef 	</td></tr>
+<tr><td>	carne de cerdo fem 	</td><td>	pork 	</td><td>	La carne de cerdo no es muy saludable. 	</td><td>	Pork meat is not very healthy. 	</td></tr>
+<tr><td>	pollo (n) masc 	</td><td>	chicken 	</td><td>	¿Pollo o pescado? 	</td><td>	Chicken or fish? 	</td></tr>
+<tr><td>	cordero (n) masc 	</td><td>	lamb 	</td><td>	costilla de cordero 	</td><td>	rack of lamb 	</td></tr>
+<tr><td>	pescado (n) masc 	</td><td>	fish 	</td><td>	Es mucho más divertido pescar en una barca que desde la costa. 	</td><td>	It is much more fun to fish from a boat than from the shore. 	</td></tr>
+<tr><td>	pie (n) masc 	</td><td>	foot 	</td><td>	Su pie izquierdo es un poco más grande que su pie derecho. 	</td><td>	His left foot is a little bigger than his right foot. 	</td></tr>
+<tr><td>	pierna (n) fem 	</td><td>	leg 	</td><td>	La mujer se esta lavando la pierna. 	</td><td>	The woman is rinsing her leg. 	</td></tr>
+<tr><td>	cabeza (n) fem 	</td><td>	head 	</td><td>	Usa un casco para proteger tu cabeza. 	</td><td>	Wear a helmet to protect your head. 	</td></tr>
+<tr><td>	brazo (n) masc 	</td><td>	arm 	</td><td>	dos brazos 	</td><td>	two arms 	</td></tr>
+<tr><td>	mano (n) fem 	</td><td>	hand 	</td><td>	El niño está levantando la mano. 	</td><td>	The child is raising his hand. 	</td></tr>
+<tr><td>	dedo (n) masc 	</td><td>	finger 	</td><td>	dedo meñique 	</td><td>	pinkie finger 	</td></tr>
+<tr><td>	cuerpo (n) masc 	</td><td>	body 	</td><td>	cuerpo humano 	</td><td>	human body 	</td></tr>
+<tr><td>	estómago (n) masc 	</td><td>	stomach 	</td><td>	El doctor esta sosteniendo un modelo del estómago. 	</td><td>	The doctor is holding a stomach model. 	</td></tr>
+<tr><td>	espalda (n) fem 	</td><td>	back 	</td><td>	Me hice daño en la espalda por levantar cosas pesadas todo el día. 	</td><td>	I hurt my back by lifting heavy things all day. 	</td></tr>
+<tr><td>	pecho (n) masc 	</td><td>	chest 	</td><td>	Tengo dolor en el pecho. 	</td><td>	I have chest pain. 	</td></tr>
+<tr><td>	enfermera (n) fem 	</td><td>	nurse 	</td><td>	La mujer es una enfermera. 	</td><td>	The woman is a nurse. 	</td></tr>
+<tr><td>	empleado (n) masc 	</td><td>	employee 	</td><td>	Los empleados están teniendo una reunión en la sala de juntas. 	</td><td>	The employees are having a meeting in the boardroom. 	</td></tr>
+<tr><td>	oficial de policía 	</td><td>	police officer 	</td><td>	oficial de policía en uniforme 	</td><td>	police officer in uniform 	</td></tr>
+<tr><td>	cocinero (n) masc 	</td><td>	cook 	</td><td>	El cocinero está asando a la parrila el pollo 	</td><td>	The cook is barbecuing the chicken. 	</td></tr>
+<tr><td>	ingeniero (n) masc 	</td><td>	engineer 	</td><td>	Soy ingeniero. 	</td><td>	I am an engineer. 	</td></tr>
+<tr><td>	médico (n) masc 	</td><td>	doctor 	</td><td>	doctor en medicina 	</td><td>	medical doctor 	</td></tr>
+<tr><td>	encargado (n) masc 	</td><td>	manager 	</td><td>	El encargado de la fábrica está dando instrucciones. 	</td><td>	The factory manager is giving instructions. 	</td></tr>
+<tr><td>	profesora (n) fem 	</td><td>	teacher 	</td><td>	profesora en el aula 	</td><td>	teacher in a classroom 	</td></tr>
+<tr><td>	programador (n) masc 	</td><td>	programmer 	</td><td>	Soy programador. 	</td><td>	I am a programmer. 	</td></tr>
+<tr><td>	vendedor (n) masc 	</td><td>	salesman 	</td><td>	vendedor de coches 	</td><td>	car salesman 	</td></tr>
 
-</td><td>
-week 	.<br>
-year 	.<br>
-today 	.<br>
-tomorrow 	.<br>
-yesterday 	.<br>
-calendar 	.<br>
-second 	.<br>
-hour 	.<br>
-minute 	.<br>
-o'clock 	.<br>
-clock 	.<br>
-can 	.<br>
-use 	.<br>
-do 	.<br>
-go 	.<br>
-come 	.<br>
-laugh 	.<br>
-make 	.<br>
-see 	.<br>
-far 	.<br>
-small 	.<br>
-good 	.<br>
-beautiful 	.<br>
-ugly 	.<br>
-difficult 	.<br>
-easy 	.<br>
-bad 	.<br>
-near 	.<br>
-Nice to meet you. 	.<br>
-Hello. 	.<br>
-Good morning. 	.<br>
-Good afternoon. 	.<br>
-Good evening. 	.<br>
-Good night. 	.<br>
-How are you? 	.<br>
-Thank you! 	.<br>
-No. 	.<br>
-Delicious! 	.<br>
-I'm...(name). 	.<br>
-Goodbye. 	.<br>
-Yes. 	.<br>
-Monday 	.<br>
-Tuesday 	.<br>
-Wednesday 	.<br>
-Thursday 	.<br>
-Friday 	.<br>
-Saturday 	.<br>
-Sunday 	.<br>
-May 	.<br>
-January 	.<br>
-February 	.<br>
-March 	.<br>
-April 	.<br>
-June 	.<br>
-July 	.<br>
-August 	.<br>
-September 	.<br>
-October 	.<br>
-November 	.<br>
-December 	.<br>
-zero 	.<br>
-one 	.<br>
-two 	.<br>
-three 	.<br>
-four 	.<br>
-five 	.<br>
-six 	.<br>
-seven 	.<br>
-eight 	.<br>
-nine 	.<br>
-ten 	.<br>
-coffee 	.<br>
-beer 	.<br>
-tea 	.<br>
-wine 	.<br>
-water 	.<br>
-beef 	.<br>
-pork 	.<br>
-chicken 	.<br>
-lamb 	.<br>
-fish 	.<br>
-foot 	.<br>
-leg 	.<br>
-head 	.<br>
-arm 	.<br>
-hand 	.<br>
-finger 	.<br>
-body 	.<br>
-stomach 	.<br>
-back 	.<br>
-chest 	.<br>
-nurse 	.<br>
-employee 	.<br>
-police officer 	.<br>
-cook 	.<br>
-engineer 	.<br>
-doctor 	.<br>
-manager 	.<br>
-teacher 	.<br>
-programmer 	.<br>
-salesman 	.<br>
-
-
-</td><td>
-Hay siete días en una semana. 	.<br>
-Estaré de vuelta el año que viene. 	.<br>
-hoy a las 6:15 	.<br>
-¡Hasta mañana! 	.<br>
-ayer por la tarde 	.<br>
-Escribe los planes para el viernes en el calendario. 	.<br>
-Quedan cincuenta y ocho segundos en el cronómetro. 	.<br>
-Hay 60 minutos en una hora. 	.<br>
-Hay sesenta segundos en un minuto. 	.<br>
-3 en punto 	.<br>
-El reloj de pared está colgando en la pared. 	.<br>
-poder saltar por encima 	.<br>
-El programador está usando el ordenador. 	.<br>
-La mujer hizo las tareas domésticas. 	.<br>
-vaya todo recto 	.<br>
-La niña viene hacia la videocámara. 	.<br>
-La pareja se ríe de la broma. 	.<br>
-La camarera está haciendo la cama en una habitación de hotel. 	.<br>
-El turista ve la puesta de sol. 	.<br>
-La mujer está viendo algo a lo lejos. 	.<br>
-muy pequeña 	.<br>
-Las verduras son buenas para tí. 	.<br>
-Ella es una mujer hermosa. 	.<br>
-rostro feo 	.<br>
-muy difícil 	.<br>
-decisión fácil 	.<br>
-El hombre es malo. 	.<br>
-La manzana está cerca de la naranja. 	.<br>
-Encantado de conocerle señor. 	.<br>
-Cuando conozco a alguien por primera vez, me gusta decir "Hola". 	.<br>
-Yo siempre digo "buenos días" a la gente que me encuentro en mi camino al trabajo. 	.<br>
-Buenas tardes. Bienvenido. 	.<br>
-Buenas tardes. Bienvenido. 	.<br>
-Los niños vienen a la planta de abajo para decirnos buenas noches. 	.<br>
-¿Qué hay de nuevo? ¿Cómo estás? 	.<br>
-Gracias por venir. 	.<br>
-señal de "no". 	.<br>
-postres deliciosos 	.<br>
-.<br>
-Ella estaba triste por decirle adiós a su novio. 	.<br>
-.<br>
-Lunes, martes, miércoles, jueves y viernes son días de la semana. 	.<br>
-martes, 1 de enero 	.<br>
-.<br>
-.<br>
-Escribe los planes para el viernes en el calendario. 	.<br>
-no tiene planes para el sábado 	.<br>
-El domingo es el Día del Padre. 	.<br>
-Ahora es abril asi que el próximo mes será mayo. 	.<br>
-El 1 de enero cae en martes este año. 	.<br>
-El día del año bisisesto es el veintinueve de febrero. 	.<br>
-Ahora es abril asi que el mes pasado fue marzo. 	.<br>
-uno de abril 	.<br>
-Nos casamos en junio. 	.<br>
-Julio fue llamado por Julio César quien nació en julio. 	.<br>
-La escuela está cerrada en agosto. 	.<br>
-En septiembre, el otoño empieza en el hemisferio norte y la primavera en el hemisferio sur. 	.<br>
-Halloween cae en el 31 de octubre. 	.<br>
-Noviembre es uno de los cuatro meses con treinta días. 	.<br>
-El 31 de diciembre es la víspera de año nuevo. 	.<br>
-número cero 	.<br>
-un grado 	.<br>
-dos grados 	.<br>
-tres grados 	.<br>
-autopista de cuatro carriles 	.<br>
-cinco grados 	.<br>
-seis cosas 	.<br>
-siete grados 	.<br>
-ocho cosas 	.<br>
-nueve cosas 	.<br>
-diez cosas 	.<br>
-café recien hecho 	.<br>
-Disfruto de una lata o botella de cerveza cuando veo los deportes en la tele. 	.<br>
-taza de té 	.<br>
-copa de vino 	.<br>
-¿Puede darme un poco de agua, por favor? 	.<br>
-sabrosa ternera 	.<br>
-La carne de cerdo no es muy saludable. 	.<br>
-¿Pollo o pescado? 	.<br>
-costilla de cordero 	.<br>
-Es mucho más divertido pescar en una barca que desde la costa. 	.<br>
-Su pie izquierdo es un poco más grande que su pie derecho. 	.<br>
-La mujer se esta lavando la pierna. 	.<br>
-Usa un casco para proteger tu cabeza. 	.<br>
-dos brazos 	.<br>
-El niño está levantando la mano. 	.<br>
-dedo meñique 	.<br>
-cuerpo humano 	.<br>
-El doctor esta sosteniendo un modelo del estómago. 	.<br>
-Me hice daño en la espalda por levantar cosas pesadas todo el día. 	.<br>
-Tengo dolor en el pecho. 	.<br>
-La mujer es una enfermera. 	.<br>
-Los empleados están teniendo una reunión en la sala de juntas. 	.<br>
-oficial de policía en uniforme 	.<br>
-El cocinero está asando a la parrila el pollo 	.<br>
-Soy ingeniero. 	.<br>
-doctor en medicina 	.<br>
-El encargado de la fábrica está dando instrucciones. 	.<br>
-profesora en el aula 	.<br>
-Soy programador. 	.<br>
-vendedor de coches 	.<br>
-
-</td><td>
-There are seven days in a week. 	.<br>
-I'll be back next year. 	.<br>
-today at 6:15 	.<br>
-See you tomorrow! 	.<br>
-yesterday afternoon 	.<br>
-Write the plans for Friday on the calendar. 	.<br>
-There are fifty eight seconds left on the stopwatch. 	.<br>
-There are 60 minutes in an hour. 	.<br>
-There are sixty seconds in a minute. 	.<br>
-3 o’clock 	.<br>
-The wall clock is hanging on the wall. 	.<br>
-can jump over 	.<br>
-The programmer is using the computer. 	.<br>
-The woman did housework. 	.<br>
-go straight ahead 	.<br>
-The girl comes towards the video camera. 	.<br>
-The couple laughs at a joke. 	.<br>
-The maid is making the bed in a hotel room. 	.<br>
-The tourists see the sunset. 	.<br>
-The woman is looking at something far away. 	.<br>
-very small 	.<br>
-Vegetables are good for you. 	.<br>
-She is a beautiful woman. 	.<br>
-ugly face 	.<br>
-very difficult 	.<br>
-easy decision 	.<br>
-The man is bad. 	.<br>
-The apple is near the orange. 	.<br>
-Nice to meet you, sir. 	.<br>
-When I first meet someone, I like to say, "Hello." 	.<br>
-I always say, "Good morning,"to the people I meet on my way home from work. 	.<br>
-Good evening. Welcome. 	.<br>
-Good evening. Welcome. 	.<br>
-The kids come downstairs to tell us good night. 	.<br>
-(What's new? How are you?) 	.<br>
-Thank you for coming. 	.<br>
-no sign 	.<br>
-delicious deserts 	.<br>
-<br>
-She was sad to say goodbye to her boyfriend. 	.<br>
-<br>
-Monday, Tuesday, Wednesday, Thursday and Friday are weekdays. 	.<br>
-Tuesday, January 1st 	.<br>
-<br>
-<br>
-Write the plans for Friday on the calendar. 	.<br>
-no plans for Saturday 	.<br>
-Sunday is Father's Day. 	.<br>
-It is now April so next month will be May. 	.<br>
-January 1st falls on a Tuesday this year. 	.<br>
-Leap year day is February 29th. 	.<br>
-It is now April so last month was March. 	.<br>
-April first 	.<br>
-We are getting married in June. 	.<br>
-July is named for Julius Caesar, who was born in July. 	.<br>
-The school is closed in August. 	.<br>
-In September, fall begins in the northen hemisphere and spring in the southern hemisphere. 	.<br>
-Halloween falls on October 31st. 	.<br>
-November is one of four months with thirty days. 	.<br>
-December 31st is New Year's Eve. 	.<br>
-number zero 	.<br>
-one degree 	.<br>
-two degrees 	.<br>
-three degrees 	.<br>
-four-lane highway 	.<br>
-five degrees 	.<br>
-six things 	.<br>
-seven degrees 	.<br>
-eight things 	.<br>
-nine things 	.<br>
-ten things 	.<br>
-freshly brewed coffee 	.<br>
-I enjoy a can or bottle of beer when watching sports on television. 	.<br>
-cup of tea 	.<br>
-glass of wine 	.<br>
-Can I have some water, please? 	.<br>
-flavorful beef 	.<br>
-Pork meat is not very healthy. 	.<br>
-Chicken or fish? 	.<br>
-rack of lamb 	.<br>
-It is much more fun to fish from a boat than from the shore. 	.<br>
-His left foot is a little bigger than his right foot. 	.<br>
-The woman is rinsing her leg. 	.<br>
-Wear a helmet to protect your head. 	.<br>
-two arms 	.<br>
-The child is raising his hand. 	.<br>
-pinkie finger 	.<br>
-human body 	.<br>
-The doctor is holding a stomach model. 	.<br>
-I hurt my back by lifting heavy things all day. 	.<br>
-I have chest pain. 	.<br>
-The woman is a nurse. 	.<br>
-The employees are having a meeting in the boardroom. 	.<br>
-police officer in uniform 	.<br>
-The cook is barbecuing the chicken. 	.<br>
-I am an engineer. 	.<br>
-medical doctor 	.<br>
-The factory manager is giving instructions. 	.<br>
-teacher in a classroom 	.<br>
-I am a programmer. 	.<br>
-car salesman 	.<br>
-
-</td>
-</tr>
-</table>
-<p style="clear: both"></p>
-<table>
-<tr><td>
-</td><td>
-</td></tr>
-
-<tr><td>
-</td><td>
-</td></tr>
 
 </table>
 <p style="clear: both"></p>
